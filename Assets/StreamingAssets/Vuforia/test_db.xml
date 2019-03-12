@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="exo" size="100.000000 142.857147" />
+    <ImageTarget name="redvelvet" size="100.000000 100.000000" />
+    <ImageTarget name="5000won" size="136.000000 64.826668" />
+    <ImageTarget name="50000won" size="136.000000 54.686989" />
+    <ImageTarget name="10000won" size="136.000000 63.750000" />
+    <ImageTarget name="1000won" size="136.000000 68.388573" />
+  </Tracking>
+</QCARConfig>
